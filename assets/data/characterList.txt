@@ -15,4 +15,6 @@ bf-pixel
 senpai
 senpai-angry
 spirit
-tankman
+bob
+angrybob
+hellbob
